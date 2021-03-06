@@ -1,0 +1,6 @@
+name: Pyeez
+description: A simple framework to create console applications (like htop).
+repository: https://github.com/mehdy/pyeez
+owner: mehdy
+languages:
+  - python
