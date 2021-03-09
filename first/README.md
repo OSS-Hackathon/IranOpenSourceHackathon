@@ -6,9 +6,9 @@ From X to Y everyone's contribution to these repositories are counted and celebr
 
 ## Repositories
 
-| Repository | Description                                |
-| ---------- | ------------------------------------------ |
-|            |                                            |
+| Name | Owner | Description | Languages |
+| --- | --- | --- | --- |
+| [Pyeez](https://github.com/mehdy/pyeez) | [mehdy](https://github.com/mehdy) | A simple framework to create console applications (like htop). | python
 
 ## Tutorials
 
