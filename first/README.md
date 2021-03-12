@@ -8,6 +8,8 @@ From X to Y everyone's contribution to these repositories are counted and celebr
 
 | Name | Owner | Description | Languages |
 | --- | --- | --- | --- |
+| [TyFON](https://github.com/loreanvictor/tyfon) | [loreanvictor](https://github.com/loreanvictor) | Typed Functions Over Network | typescript, javascript| --- | --- | --- | --- |
+| [Callbag JSX](https://github.com/loreanvictor/callbag-jsx) | [loreanvictor](https://github.com/loreanvictor) | callbags + JSX: fast and tiny interactive web apps | typescript| --- | --- | --- | --- |
 | [Pyeez](https://github.com/mehdy/pyeez) | [mehdy](https://github.com/mehdy) | A simple framework to create console applications (like htop). | python
 
 ## Tutorials

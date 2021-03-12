@@ -1,0 +1,7 @@
+name: TyFON
+description: Typed Functions Over Network
+repository: https://github.com/loreanvictor/tyfon
+owner: loreanvictor
+languages:
+  - typescript
+  - javascript
