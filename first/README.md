@@ -27,7 +27,7 @@ Contribute to one of [these repositories][REPOS] during the [time of the hackath
 
 If you are unfamiliar with open-source contribution, git or github, take a look at [these resources][TUTS].
 
-Also be carefully read our [code of conduct][COC] before you start contributing. Administrative action (including bans from current hackathon
+Also carefully read our [code of conduct][COC] before you start contributing. Administrative action (including bans from current hackathon
 or even from all subsequent hackathons) might be taken in response to violations of the [code of conduct][COC].
 
 ## Repositories
