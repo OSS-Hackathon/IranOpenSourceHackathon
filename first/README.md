@@ -5,6 +5,7 @@ There is a [curated list of repositories][REPOS] whose maintainers volunteered t
 
 In this readme and in [the code of conduct][COC], keywords **MUST**, **MUST NOT**, **REQUIRED**, **SHALL**, **SHALL NOT**, **SHOULD**, **SHOULD NOT**, **RECOMMENDED**, **MAY**, and **OPTIONAL**, when appearing in caps lock and in bold, are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119). This is not a software spec document, but still the extra clarity helps avoiding confusion.
 
+👉 If you are a maintainer and want to enter some of your repositories in the hackathon so our participants will contribute to them, check [this section][MAINTS].
 
 > ⚠️⚠️ **NOTICE**
 >
@@ -29,6 +30,39 @@ If you are unfamiliar with open-source contribution, git or github, take a look 
 
 Also carefully read our [code of conduct][COC] before you start contributing. Administrative action (including bans from current hackathon
 or even from all subsequent hackathons) might be taken in response to violations of the [code of conduct][COC].
+
+<br>
+
+### Why Should I Participate?
+
+- You will help improve software that people like you use (apes together strong).
+- You will learn a lot (like seriously, a TON).
+- You will street-cred (which also helps with employability).
+
+<br>
+
+## I Am A Maintainer. Can I Add My Repos To This Hackathon?
+
+Of course! You need to ⚠️:
+
+- Fork this repo
+- Create a directory in sub-directory `first/repos` with your username, i.e. `/first/repos/jafar`
+- For each repository you want to enter, make a [yaml](https://yaml.org) file inside that directory with the same name as your repository that looks like this:
+  ```yaml
+  name: <name of your repo>
+  description: <a short description of your repo>
+  repository: <address of the repository>
+  owner: <name of the owner of the repository>
+  languages:
+    - <language 1 used in the repo>
+    - <language 2 used in the repo>
+    - ...
+  ```
+- Make a pull request.
+
+👉 You can see examples in the [repos](/first/repos) directory.
+
+<br>
 
 ## Repositories
 
@@ -59,3 +93,4 @@ or even from all subsequent hackathons) might be taken in response to violations
 [REPOS]: #repositories
 [DURATION]: #duration
 [TOP-CONTS]: #top-contributors
+[MAINTS]: #i-am-a-maintainer-can-i-add-my-repos-to-this-hackathon
