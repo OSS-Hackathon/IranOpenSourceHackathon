@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="/logo/svg/logo-dark.svg" size="320">
-
-  # Iran Open Source Hackathon
-</div>
+![logo](/logo/svg/logo-type-dark.svg)
 
 A movement to encourage and celebrate Iranian's contribution to the open source community.
 We've gathered a bunch of [repositories](#repositories) which are offering a helping environment to contributors.
