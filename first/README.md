@@ -70,7 +70,8 @@ Of course! You need to ⚠️:
 | --- | --- | --- | --- |
 | [TyFON](https://github.com/loreanvictor/tyfon) | [loreanvictor](https://github.com/loreanvictor) | Typed Functions Over Network | typescript, javascript| --- | --- | --- | --- |
 | [Callbag JSX](https://github.com/loreanvictor/callbag-jsx) | [loreanvictor](https://github.com/loreanvictor) | callbags + JSX: fast and tiny interactive web apps | typescript| --- | --- | --- | --- |
-| [Pyeez](https://github.com/mehdy/pyeez) | [mehdy](https://github.com/mehdy) | A simple framework to create console applications (like htop). | python
+| [Pyeez](https://github.com/mehdy/pyeez) | [mehdy](https://github.com/mehdy) | A simple framework to create console applications (like htop). | python| --- | --- | --- | --- |
+| [gRPC Go Contracts](https://github.com/shayanh/grpc-go-contracts) | [shayanh](https://github.com/shayanh) | Verify the communication of your microservices by writing contracts for your RPCs | go
 
 > _To be completed_
 
