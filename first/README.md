@@ -37,7 +37,7 @@ or even from all subsequent hackathons) might be taken in response to violations
 
 - You will help improve software that people like you use (apes together strong).
 - You will learn a lot (like seriously, a TON).
-- You will street-cred (which also helps with employability).
+- You will earn street-cred (which also helps with employability).
 
 <br>
 
