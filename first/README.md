@@ -1,8 +1,68 @@
-# Iran Open Source Hackathon
+![logo](/logo/svg/logo-type-dark.svg)
 
-A movement to encourage and celebrate Iranian's contribution to the open source community.
-We've gathered a bunch of [repositories](#repositories) which are offering a helping environment to contributors.
-From X to Y everyone's contribution to these repositories are counted and celebrated.
+_Iran Open Source Hackathon_ is an open-source hackathon (duh) with the aim of encouraging participation in open-source contribution amongst Iranian developers.
+There is a [curated list of repositories][REPOS] whose maintainers volunteered to be part of the hackathon. Contribute to any of these repositories [during the hackathon][DURATION], and at the end [top contributors will be acknowledged here][TOP-CONTS] (so yes in the end its just about bragging rights).
+
+In this readme and in [the code of conduct][COC], keywords **MUST**, **MUST NOT**, **REQUIRED**, **SHALL**, **SHALL NOT**, **SHOULD**, **SHOULD NOT**, **RECOMMENDED**, **MAY**, and **OPTIONAL**, when appearing in caps lock and in bold, are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119). This is not a software spec document, but still the extra clarity helps avoiding confusion.
+
+👉 If you are a maintainer and want to enter some of your repositories in the hackathon so our participants will contribute to them, check [this section][MAINTS].
+
+> ⚠️⚠️ **NOTICE**
+>
+> This is work in progress. As long as this notice is up here, any rule, date, information, etc is subject to sudden change without
+> any prior notice.
+>
+> If a piece of information is followed by `⚠️`, then there is a good chance we will change it in near future and current
+> information is mostly a placeholder.
+
+<br>
+
+## How Can I Participate?
+
+Contribute to one of [these repositories][REPOS] during the [time of the hackathon][DURATION]:
+
+- Make a pull request, include #iosh⚠️ in its title⚠️.
+- The pull request **MUST** be accepted to the repository before [the end of the hackathon][DURATION].
+- Each pull request will count towards your total score (depends on how many lines of code it is ⚠️).
+- At the end, top 5⚠️ contributors (highest scores ⚠️) will be acknowledged [here][TOP-CONTS]. We might update the list during the hackathon as well.
+
+If you are unfamiliar with open-source contribution, git or github, take a look at [these resources][TUTS].
+
+Also carefully read our [code of conduct][COC] before you start contributing. Administrative action (including bans from current hackathon
+or even from all subsequent hackathons) might be taken in response to violations of the [code of conduct][COC].
+
+<br>
+
+### Why Should I Participate?
+
+- You will help improve software that people like you use (apes together strong).
+- You will learn a lot (like seriously, a TON).
+- You will street-cred (which also helps with employability).
+
+<br>
+
+## I Am A Maintainer. Can I Add My Repos To This Hackathon?
+
+Of course! You need to ⚠️:
+
+1. Fork this repo
+1. Create a directory in sub-directory `first/repos` with your username, i.e. `/first/repos/jafar`
+1. For each repository you want to enter, make a [yaml](https://yaml.org) file inside that directory with the same name as your repository that looks like this:
+   ```yaml
+   name: <name of your repo>
+   description: <a short description of your repo>
+   repository: <address of the repository>
+   owner: <name of the owner of the repository>
+   languages:
+     - <language 1 used in the repo>
+     - <language 2 used in the repo>
+     - ...
+   ```
+1. Make a pull request.
+
+👉 You can see examples in the [repos](/first/repos) directory.
+
+<br>
 
 ## Repositories
 
@@ -12,50 +72,25 @@ From X to Y everyone's contribution to these repositories are counted and celebr
 | [Callbag JSX](https://github.com/loreanvictor/callbag-jsx) | [loreanvictor](https://github.com/loreanvictor) | callbags + JSX: fast and tiny interactive web apps | typescript| --- | --- | --- | --- |
 | [Pyeez](https://github.com/mehdy/pyeez) | [mehdy](https://github.com/mehdy) | A simple framework to create console applications (like htop). | python
 
-## Tutorials
+> _To be completed_
 
-Not sure how to start? Here's a list of tutorials about open source contribution and the basics of Git and GitHub.
+<br>
 
-### [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+## Duration
 
-A series of articles provided by _Digital Ocean Community_ :
+> _To be Announced_
 
-- How To Contribute to Open Source: Getting Started with Git
-- How To Create a Pull Request on GitHub
-- How To Rebase and Update a Pull Request
-- How To Maintain Open-Source Software Projects
-- How To Use Git: A Reference Guide
+<br>
 
-### [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+## Top Contributors
 
-A series of articles provided by _Open Source Guides_ :
+> _To be determined_
 
-- Why contribute to open source?
-- What it means to contribute
-- Orienting yourself to a new project
-- Finding a project to contribute to
-- How to submit a contribution
-- What happens after you submit a contribution
+<br>
 
-### [How to Contribute to an Open Source Project on GitHub](https://egghead.io/lessons/javascript-how-to-authenticate-with-github-using-ssh)
-
-A 38 minutes video tutorial by _Kent C. Dodds on Egghead_:
-Showing all the necessary information about git and Github in action (For those who prefer video contents).
-
-## Terms and Conditions
-
-- The core reason for holding these events is to encourage people to contribute to the open source community more often and easily by celebrating their efforts doing so.
-- If we receive violation reports, we'll investigate and it may lead to being blocked from the program.
-- In case of any dispute or disagreement, the directors of the program have the final saying.
-
-### Repository Maintainers
-
-- Please be friendly and patient with new contributors.
-- Respond to the issues and PRs within 48 hours as long as it's possible.
-
-### Individual Contributors
-
-- Read the provided documents by the repositories to avoid common mistakes.
-- Be sure to check the issues and PRs before submitting any to avoid spamming the repositories.
-- Be friendly and respect the time and opinion of the maintainers.
-- Be sure to follow the same code style and conventions as the repository maintainers.
+[COC]: /CODE_OF_CONDUCT.md
+[TUTS]: /TUTORIALS.md
+[REPOS]: #repositories
+[DURATION]: #duration
+[TOP-CONTS]: #top-contributors
+[MAINTS]: #i-am-a-maintainer-can-i-add-my-repos-to-this-hackathon
