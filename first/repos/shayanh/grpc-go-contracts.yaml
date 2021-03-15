@@ -1,0 +1,6 @@
+name: gRPC Go Contracts 
+description: 'Verify the communication of your microservices by writing contracts for your RPCs' 
+repository: https://github.com/shayanh/grpc-go-contracts
+owner: shayanh
+languages:
+  - go 
