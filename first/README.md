@@ -48,6 +48,7 @@ Of course! You need to ⚠️:
 1. Fork this repo
 1. Create a directory in sub-directory `first/repos` with your username, i.e. `/first/repos/jafar`
 1. For each repository you want to enter, make a [yaml](https://yaml.org) file inside that directory with the same name as your repository that looks like this:
+
    ```yaml
    name: <name of your repo>
    description: <a short description of your repo>
@@ -58,6 +59,7 @@ Of course! You need to ⚠️:
      - <language 2 used in the repo>
      - ...
    ```
+
 1. Make a pull request.
 
 👉 You can see examples in the [repos](/first/repos) directory.
@@ -68,10 +70,11 @@ Of course! You need to ⚠️:
 
 | Name | Owner | Description | Languages |
 | --- | --- | --- | --- |
-| [TyFON](https://github.com/loreanvictor/tyfon) | [loreanvictor](https://github.com/loreanvictor) | Typed Functions Over Network | typescript, javascript| --- | --- | --- | --- |
-| [Callbag JSX](https://github.com/loreanvictor/callbag-jsx) | [loreanvictor](https://github.com/loreanvictor) | callbags + JSX: fast and tiny interactive web apps | typescript| --- | --- | --- | --- |
+| [Anbar](https://github.com/mehdy/Anbar) | [mehdy](https://github.com/mehdy) | A basic S3 compatible storage server in Rust. | rust| --- | --- | --- | --- |
 | [Pyeez](https://github.com/mehdy/pyeez) | [mehdy](https://github.com/mehdy) | A simple framework to create console applications (like htop). | python| --- | --- | --- | --- |
-| [gRPC Go Contracts](https://github.com/shayanh/grpc-go-contracts) | [shayanh](https://github.com/shayanh) | Verify the communication of your microservices by writing contracts for your RPCs | go
+| [gRPC Go Contracts](https://github.com/shayanh/grpc-go-contracts) | [shayanh](https://github.com/shayanh) | Verify the communication of your microservices by writing contracts for your RPCs | go| --- | --- | --- | --- |
+| [TyFON](https://github.com/loreanvictor/tyfon) | [loreanvictor](https://github.com/loreanvictor) | Typed Functions Over Network | typescript, javascript| --- | --- | --- | --- |
+| [Callbag JSX](https://github.com/loreanvictor/callbag-jsx) | [loreanvictor](https://github.com/loreanvictor) | callbags + JSX: fast and tiny interactive web apps | typescript
 
 > _To be completed_
 

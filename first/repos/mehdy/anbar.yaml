@@ -1,0 +1,6 @@
+name: Anbar
+description: A basic S3 compatible storage server in Rust.
+repository: https://github.com/mehdy/Anbar
+owner: mehdy
+languages:
+  - rust
