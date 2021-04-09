@@ -82,9 +82,11 @@ Of course! You need to ⚠️:
 
 ## Duration
 
-Beginning | 15 Tir 1400        | 06 July 2021
+Beginning | تیر ۱۵        | 06 July
 ----------|:-------------------|:-------------------
-Ending    | 15 Shahrivar 1400  | 06 September 2021 
+Ending    | شهریور ۱۵  | 06 September 
+
+۱۴۰۰ / 2021
 
 <br>
 
