@@ -82,7 +82,21 @@ Of course! You need to ⚠️:
 
 ## Duration
 
-> _To be Announced_
+Beginning | 15 Tir 1400        | 06 July 2021
+----------|:-------------------|:-------------------
+Ending    | 15 Shahrivar 1400  | 06 September 2021 
+
+<br>
+
+### 👉 For Participants
+
+Your pull requests **MUST** be submitted after beginning of the hackathon period and be merged before the end of the hackathon.
+
+<br>
+
+### 👉 For Maintainers
+
+Ideally, submit your repositories before the start of the hackathon, though you can (⚠️) submit it during the duration of the hackathon as well.
 
 <br>
 
