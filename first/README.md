@@ -1,4 +1,4 @@
-![logo](/logo/svg/logo-type-dark.svg)
+![logo](/design/logo/svg/logo-type-dark.svg)
 
 _Iran Open Source Hackathon_ is an open-source hackathon (duh) with the aim of encouraging participation in open-source contribution amongst Iranian developers.
 There is a [curated list of repositories][REPOS] whose maintainers volunteered to be part of the hackathon. Contribute to any of these repositories [during the hackathon][DURATION], and at the end [top contributors will be acknowledged here][TOP-CONTS] (so yes in the end its just about bragging rights).
