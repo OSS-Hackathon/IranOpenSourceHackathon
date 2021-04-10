@@ -73,6 +73,7 @@ Of course! You need to ⚠️:
 | [Anbar](https://github.com/mehdy/Anbar) | [mehdy](https://github.com/mehdy) | A basic S3 compatible storage server in Rust. | rust| --- | --- | --- | --- |
 | [Pyeez](https://github.com/mehdy/pyeez) | [mehdy](https://github.com/mehdy) | A simple framework to create console applications (like htop). | python| --- | --- | --- | --- |
 | [gRPC Go Contracts](https://github.com/shayanh/grpc-go-contracts) | [shayanh](https://github.com/shayanh) | Verify the communication of your microservices by writing contracts for your RPCs | go| --- | --- | --- | --- |
+| [Keepalived Exporter](https://github.com/cafebazaar/keepalived-exporter) | [mehdy](https://github.com/mehdy) | Prometheus exporter for Keepalived metrics. | go| --- | --- | --- | --- |
 | [TyFON](https://github.com/loreanvictor/tyfon) | [loreanvictor](https://github.com/loreanvictor) | Typed Functions Over Network | typescript, javascript| --- | --- | --- | --- |
 | [Callbag JSX](https://github.com/loreanvictor/callbag-jsx) | [loreanvictor](https://github.com/loreanvictor) | callbags + JSX: fast and tiny interactive web apps | typescript
 
