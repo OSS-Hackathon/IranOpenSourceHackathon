@@ -45,23 +45,44 @@ or even from all subsequent hackathons) might be taken in response to violations
 
 Of course! You need to:
 
-1. Fork this repo
-1. Create a directory in sub-directory `first/repos`. Its name **MUST** be the slug of the repo owner, i.e. `first/repos/jafar` or `first/repos/cool-company`.
-1. For each repository you want to enter, make a [yaml](https://yaml.org) file inside that directory. Its name **MUST** be
-the slu of the repo itself, i.e. `first/repos/jafar/my-repo.yaml`.
+1. Fork this repository.
+1. For each repository like `https://github.com/jafar/my-repo`, add a [yaml](https://en.wikipedia.org/wiki/YAML) file to `first/repos` \
+  (i.e. `first/repos/jafar/my-repo.yaml`):
   ```yaml
-    # first/repos/jafar/my-repo.yaml
-    name: <name of your repo>
-    description: <a short description of your repo>
-    languages:
-      - <language 1 used in the repo>
-      - <language 2 used in the repo>
-      - ...
+  # first/repos/jafar/my-repo.yaml
+  
+  name: My Cool Repository
+  description: I am particularly cool here
+  languages:
+    - JavaScript
+    - Hashemi
+    - ...
   ```
-1. Check the folder name and the filename: open `https://github.com/jafar/my-repo` and it should be the repository you intended.
 1. Make a pull request.
 
 👉 You can see examples in the [repos](/first/repos) directory.
+
+👉 You can add a list of maintainers (with whom hackathon participants can be in contact) as well:
+```yaml
+# first/repos/jafar/my-repo.yaml
+
+name: My Cool Repository
+description: I am particularly cool here
+languages:
+  - JavaScript
+  - Hashemi
+#
+# 👉 for user `https://github.com/asghar`, add `asghar` to this list
+# 👉 also don't forget the repo owner if they are going to be a maintainer as well
+#
+maintainers:
+  - jafar
+  - asghar
+  - nooshin
+  - maliheh
+```
+
+👉 If your repo belongs to a company, you **MUST** specify maintainers independently.
 
 <br>
 
