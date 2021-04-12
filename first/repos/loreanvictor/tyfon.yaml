@@ -1,7 +1,5 @@
 name: TyFON
 description: Typed Functions Over Network
-maintainers:
-  - loreanvictor
 languages:
   - typescript
   - javascript
