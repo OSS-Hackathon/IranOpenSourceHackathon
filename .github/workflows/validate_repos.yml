@@ -5,6 +5,9 @@ on:
     - main
     paths:
       - 'first/repos/**'
+  pull_request:
+    paths:
+      - 'first/repos/**'
 jobs:
   do:
     runs-on: ubuntu-latest
