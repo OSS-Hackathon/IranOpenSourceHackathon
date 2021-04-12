@@ -1,4 +1,6 @@
 name: Callbag JSX
 description: 'callbags + JSX: fast and tiny interactive web apps'
+maintainers:
+  - loreanvictor
 languages:
   - typescript
