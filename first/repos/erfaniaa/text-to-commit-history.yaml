@@ -1,6 +1,4 @@
 name: text-to-commit-history
 description: Write a large text on your Github profile, with your commits history (contribution graph).
-repository: https://github.com/erfaniaa/text-to-commit-history
-owner: erfaniaa
 languages:
   - Python

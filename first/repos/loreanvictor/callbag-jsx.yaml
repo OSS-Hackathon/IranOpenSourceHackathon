@@ -1,6 +1,4 @@
 name: Callbag JSX
 description: 'callbags + JSX: fast and tiny interactive web apps'
-repository: https://github.com/loreanvictor/callbag-jsx
-owner: loreanvictor
 languages:
   - typescript

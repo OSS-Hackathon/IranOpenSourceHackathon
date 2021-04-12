@@ -1,6 +1,6 @@
 name: Keepalived Exporter
 description: Prometheus exporter for Keepalived metrics.
-repository: https://github.com/cafebazaar/keepalived-exporter
-owner: mehdy
+maintainers:
+  - mehdy
 languages:
   - go

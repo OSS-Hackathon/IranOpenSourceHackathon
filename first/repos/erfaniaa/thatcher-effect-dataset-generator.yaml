@@ -1,6 +1,4 @@
 name: thatcher-effect-dataset-generator
 description: Using OpenCV to apply Thatcher effect on a set of face images
-repository: https://github.com/erfaniaa/thatcher-effect-dataset-generator
-owner: erfaniaa
 languages:
   - Python
