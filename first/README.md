@@ -43,23 +43,22 @@ or even from all subsequent hackathons) might be taken in response to violations
 
 ## I Am A Maintainer. Can I Add My Repos To This Hackathon?
 
-Of course! You need to ⚠️:
+Of course! You need to:
 
 1. Fork this repo
-1. Create a directory in sub-directory `first/repos` with your username, i.e. `/first/repos/jafar`
-1. For each repository you want to enter, make a [yaml](https://yaml.org) file inside that directory with the same name as your repository that looks like this:
-
-   ```yaml
-   name: <name of your repo>
-   description: <a short description of your repo>
-   repository: <address of the repository>
-   owner: <name of the owner of the repository>
-   languages:
-     - <language 1 used in the repo>
-     - <language 2 used in the repo>
-     - ...
-   ```
-
+1. Create a directory in sub-directory `first/repos`. Its name **MUST** be the slug of the repo owner, i.e. `first/repos/jafar` or `first/repos/cool-company`.
+1. For each repository you want to enter, make a [yaml](https://yaml.org) file inside that directory. Its name **MUST** be
+the slu of the repo itself, i.e. `first/repos/jafar/my-repo.yaml`.
+  ```yaml
+    # first/repos/jafar/my-repo.yaml
+    name: <name of your repo>
+    description: <a short description of your repo>
+    languages:
+      - <language 1 used in the repo>
+      - <language 2 used in the repo>
+      - ...
+  ```
+1. Check the folder name and the filename: open `https://github.com/jafar/my-repo` and it should be the repository you intended.
 1. Make a pull request.
 
 👉 You can see examples in the [repos](/first/repos) directory.
@@ -69,7 +68,7 @@ Of course! You need to ⚠️:
 ## Repositories
 
 <!-- Repos Table -->
- | Name | Description | Owner | Maintainers | Languages | 
+ | Name | Description | Owner | Maintainer(s) | Languages | 
  | --- | --- | --- | --- | --- | 
  | [TyFON](https://github.com/loreanvictor/tyfon) | Typed Functions Over Network | [loreanvictor](https://github.com/loreanvictor) | [loreanvictor](https://github.com/loreanvictor) | typescript, javascript | 
  | [Callbag JSX](https://github.com/loreanvictor/callbag-jsx) | callbags + JSX: fast and tiny interactive web apps | [loreanvictor](https://github.com/loreanvictor) | [loreanvictor](https://github.com/loreanvictor) | typescript | 

@@ -18,7 +18,7 @@ def repos_table(repos):
         'Name': lambda repo: github_repo_link(repo['name'], repo['owner'], repo['slug']),
         'Description': lambda repo: repo['description'],
         'Owner': lambda repo: github_user_link(repo['owner']),
-        'Maintainers': lambda repo: comma_separated(map(github_user_link, repo['maintainers'])),
+        'Maintainer(s)': lambda repo: comma_separated(map(github_user_link, repo['maintainers'])),
         'Languages': lambda repo: comma_separated(repo['languages']),
     }, repos)
 
