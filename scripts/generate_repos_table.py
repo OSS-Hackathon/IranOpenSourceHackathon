@@ -1,16 +1,9 @@
 import os
 import sys
-import yaml
 
 from util.markdown import comma_separated, md_link, md_table, NEWLINE
 from util.github import github_user_link, github_repo_link
-
-
-def fill_repo_details(repo, dir, file):
-    repo['owner'] = os.path.basename(dir)
-    repo['slug'] = os.path.splitext(file)[0]
-    if 'maintainers' not in repo:
-        repo['maintainers'] = [repo['owner']]
+from util.repos import load_repos
 
 
 def repos_table(repos):
@@ -21,19 +14,6 @@ def repos_table(repos):
         'Maintainer(s)': lambda repo: comma_separated(map(github_user_link, repo['maintainers'])),
         'Languages': lambda repo: comma_separated(repo['languages']),
     }, repos)
-
-
-def load_repos(event):
-    FOLDER = 'repos'
-    repos = []
-    for current_path, _, files in os.walk(os.path.join(event, FOLDER)):
-        for file in files:
-            with open(os.path.join(current_path, file)) as f:
-                repo = yaml.full_load(f)
-                fill_repo_details(repo, current_path, file)
-            repos.append(repo)
-
-    return repos
 
 
 def write_repos(event, table):

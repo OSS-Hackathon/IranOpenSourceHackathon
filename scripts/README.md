@@ -14,7 +14,11 @@ This script will ([soon](https://github.com/OSS-Hackathon/IranOpenSourceHackatho
 if you need to run it manually follow these steps:
 
 1. [Install Python 3](https://www.python.org/downloads/)
-2. Run this:
+1. Install dependencies:
+  ```bash
+  pip3 install pyyaml
+  ```
+1. Run this:
   ```bash
   python3 ./scripts/generate_repos_table.py <event>
   ```

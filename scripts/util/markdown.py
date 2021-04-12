@@ -1,5 +1,6 @@
 NEWLINE = '\n'
 
+
 def comma_separated(list):
     return ', '.join(list)
 
