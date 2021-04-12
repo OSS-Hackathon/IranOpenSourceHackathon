@@ -43,41 +43,64 @@ or even from all subsequent hackathons) might be taken in response to violations
 
 ## I Am A Maintainer. Can I Add My Repos To This Hackathon?
 
-Of course! You need to ⚠️:
+Of course! You need to:
 
-1. Fork this repo
-1. Create a directory in sub-directory `first/repos` with your username, i.e. `/first/repos/jafar`
-1. For each repository you want to enter, make a [yaml](https://yaml.org) file inside that directory with the same name as your repository that looks like this:
-
-   ```yaml
-   name: <name of your repo>
-   description: <a short description of your repo>
-   repository: <address of the repository>
-   owner: <name of the owner of the repository>
-   languages:
-     - <language 1 used in the repo>
-     - <language 2 used in the repo>
-     - ...
-   ```
-
+1. Fork this repository.
+1. For each repository like `https://github.com/jafar/my-repo`, add a [yaml](https://en.wikipedia.org/wiki/YAML) file to `first/repos` \
+  (i.e. `first/repos/jafar/my-repo.yaml`):
+  ```yaml
+  # first/repos/jafar/my-repo.yaml
+  
+  name: My Cool Repository
+  description: I am particularly cool here
+  languages:
+    - JavaScript
+    - Hashemi
+    - ...
+  ```
 1. Make a pull request.
 
 👉 You can see examples in the [repos](/first/repos) directory.
+
+👉 You can add a list of maintainers (with whom hackathon participants can be in contact) as well:
+```yaml
+# first/repos/jafar/my-repo.yaml
+
+name: My Cool Repository
+description: I am particularly cool here
+languages:
+  - JavaScript
+  - Hashemi
+#
+# 👉 for user `https://github.com/asghar`, add `asghar` to this list
+# 👉 also don't forget the repo owner if they are going to be a maintainer as well
+#
+maintainers:
+  - jafar
+  - asghar
+  - nooshin
+  - maliheh
+```
+
+👉 If your repo belongs to a company, you **MUST** specify maintainers independently.
 
 <br>
 
 ## Repositories
 
-| Name | Owner | Description | Languages |
-| --- | --- | --- | --- |
-| [TyFON](https://github.com/loreanvictor/tyfon) | [loreanvictor](https://github.com/loreanvictor) | Typed Functions Over Network | typescript, javascript| --- | --- | --- | --- |
-| [Callbag JSX](https://github.com/loreanvictor/callbag-jsx) | [loreanvictor](https://github.com/loreanvictor) | callbags + JSX: fast and tiny interactive web apps | typescript| --- | --- | --- | --- |
-| [Anbar](https://github.com/mehdy/Anbar) | [mehdy](https://github.com/mehdy) | A basic S3 compatible storage server in Rust. | rust| --- | --- | --- | --- |
-| [Pyeez](https://github.com/mehdy/pyeez) | [mehdy](https://github.com/mehdy) | A simple framework to create console applications (like htop). | python| --- | --- | --- | --- |
-| [Keepalived Exporter](https://github.com/cafebazaar/keepalived-exporter) | [mehdy](https://github.com/mehdy) | Prometheus exporter for Keepalived metrics. | go| --- | --- | --- | --- |
-| [text-to-commit-history](https://github.com/erfaniaa/text-to-commit-history) | [erfaniaa](https://github.com/erfaniaa) | Write a large text on your Github profile, with your commits history (contribution graph). | Python| --- | --- | --- | --- |
-| [thatcher-effect-dataset-generator](https://github.com/erfaniaa/thatcher-effect-dataset-generator) | [erfaniaa](https://github.com/erfaniaa) | Using OpenCV to apply Thatcher effect on a set of face images | Python| --- | --- | --- | --- |
-| [gRPC Go Contracts](https://github.com/shayanh/grpc-go-contracts) | [shayanh](https://github.com/shayanh) | Verify the communication of your microservices by writing contracts for your RPCs | go
+<!-- Repos Table -->
+ | Name | Description | Owner | Maintainer(s) | Languages | 
+ | --- | --- | --- | --- | --- | 
+ | [TyFON](https://github.com/loreanvictor/tyfon) | Typed Functions Over Network | [loreanvictor](https://github.com/loreanvictor) | [loreanvictor](https://github.com/loreanvictor) | typescript, javascript | 
+ | [Callbag JSX](https://github.com/loreanvictor/callbag-jsx) | callbags + JSX: fast and tiny interactive web apps | [loreanvictor](https://github.com/loreanvictor) | [loreanvictor](https://github.com/loreanvictor) | typescript | 
+ | [Anbar](https://github.com/mehdy/anbar) | A basic S3 compatible storage server in Rust. | [mehdy](https://github.com/mehdy) | [mehdy](https://github.com/mehdy) | rust | 
+ | [Pyeez](https://github.com/mehdy/pyeez) | A simple framework to create console applications (like htop). | [mehdy](https://github.com/mehdy) | [mehdy](https://github.com/mehdy) | python | 
+ | [Keepalived Exporter](https://github.com/cafebazaar/keepalived-exporter) | Prometheus exporter for Keepalived metrics. | [cafebazaar](https://github.com/cafebazaar) | [mehdy](https://github.com/mehdy) | go | 
+ | [text-to-commit-history](https://github.com/erfaniaa/text-to-commit-history) | Write a large text on your Github profile, with your commits history (contribution graph). | [erfaniaa](https://github.com/erfaniaa) | [erfaniaa](https://github.com/erfaniaa) | Python | 
+ | [thatcher-effect-dataset-generator](https://github.com/erfaniaa/thatcher-effect-dataset-generator) | Using OpenCV to apply Thatcher effect on a set of face images | [erfaniaa](https://github.com/erfaniaa) | [erfaniaa](https://github.com/erfaniaa) | Python | 
+ | [gRPC Go Contracts](https://github.com/shayanh/grpc-go-contracts) | Verify the communication of your microservices by writing contracts for your RPCs | [shayanh](https://github.com/shayanh) | [shayanh](https://github.com/shayanh) | go | 
+<!-- /Repos Table -->
+
 > _To be completed_
 
 <br>
