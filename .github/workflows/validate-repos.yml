@@ -12,15 +12,30 @@ jobs:
   do:
     runs-on: ubuntu-latest
     steps:
+      #
+      # Checkout the code
+      #
       - uses: actions/checkout@v2
+
+      #
+      # Setup Python
+      #
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
+
+      #
+      # Install Pip Dependencies
+      #
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install pyyaml
+
+      #
+      # Run the validation script
+      #
       - name: Validate Repositories
         run: python ./scripts/validate_repos.py first
 

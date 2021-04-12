@@ -9,24 +9,51 @@ jobs:
   do:
     runs-on: ubuntu-latest
     steps:
+      #
+      # Checkout the code
+      #
       - uses: actions/checkout@v2
+
+      #
+      # Setup Python
+      #
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
+
+      #
+      # Install Pip dependencies
+      #
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install pyyaml
+
+      #
+      # Validate repository files first
+      #
       - name: Validate Repositories
         run: python ./scripts/validate_repos.py first
+
+      #
+      # Update the repositories table in README.md
+      #
       - name: Update Repositories Table in Readme
         run: python ./scripts/generate_repos_table.py first
+
+      #
+      # Commit the changes
+      #
       - name: Commit Files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git commit -m "Add changes" -a
+
+      #
+      # Push to main
+      #
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
