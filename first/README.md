@@ -46,7 +46,7 @@ or even from all subsequent hackathons) might be taken in response to violations
 Of course! You need to:
 
 1. Fork this repository.
-1. For each repository like `https://github.com/jafar/my-repo`, add a [yaml](https://en.wikipedia.org/wiki/YAML) file to `first/repos` \
+2. For each repository like `https://github.com/jafar/my-repo`, add a [yaml](https://en.wikipedia.org/wiki/YAML) file to `first/repos` \
   (i.e. `first/repos/jafar/my-repo.yaml`):
   ```yaml
   # first/repos/jafar/my-repo.yaml
@@ -58,7 +58,7 @@ Of course! You need to:
     - Hashemi
     - ...
   ```
-1. Make a pull request.
+3. Make a pull request.
 
 👉 You can see examples in the [repos](/first/repos) directory.
 
