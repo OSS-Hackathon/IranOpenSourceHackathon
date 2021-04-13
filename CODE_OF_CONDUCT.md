@@ -126,3 +126,7 @@ Actions we may take in such instances include (but are not limited to) the follo
 
 This Code of Conduct is adapted from [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, 
 available at [http://contributor-covenant.org/version/1/4](http://contributor-covenant.org/version/1/4).
+
+Images:
+- <a href='https://www.freepik.com/vectors/people'>pch.vector</a>
+- <a href='https://www.freepik.com/vectors/people'>vectorjuice</a>
