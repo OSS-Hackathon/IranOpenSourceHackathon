@@ -33,7 +33,7 @@ is appreciated and encouraged.
 - First and foremost, focus on improving the projecs you contribute to.
 - Read provided documents for each repository you want to contribute to. Specifically, follow their code of conduct.
 - Check the issues and pull requests before submitting.
-- When in-doubt, create issues before hand to discuss your solution with maintainers.
+- When in-doubt, create issues beforehand to discuss your solution with maintainers.
 - Understand the project goals, structure, conventions, code styles, testing, etc. Follow contribution guidelines if provided.
 - Actively seek advice from maintainers, and respect their opinion and experience.
 
