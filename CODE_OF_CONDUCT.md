@@ -73,7 +73,7 @@ is unacceptable, and appropriate and fair corrective action will be taken in res
 - Avoid spamming repositories. You should be helping improve open-source projects, not use them to gain scores.
 - Avoid disruptive contributions, i.e. taking someone else's pull request / branch / work and submiting it.
 - Avoid automated pull requests (automated typo fixes, whitespace removal, image optimization).
-- Avoid focusing on issues that are not a priority for the project. Be of help, not hindrance.
+- Avoid focusing on issues that are not a priority for the project. Be helpful, not a hindrance.
 
 ### For Repository Maintainers
 
