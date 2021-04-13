@@ -40,16 +40,16 @@ is appreciated and encouraged.
 - First and foremost, focus on improving the projecs you contribute to.
 - Read provided documents for each repository you want to contribute to. Specifically, follow their code of conduct.
 - Check the issues and pull requests before submitting.
-- When in-doubt, create issues beforehand to discuss your solution with maintainers.
+- When in-doubt, create issues beforehand to discuss your solution with repository maintainers.
 - Understand the project goals, structure, conventions, code styles, testing, etc. Follow contribution guidelines if provided.
-- Actively seek advice from maintainers, and respect their opinion, experience and time.
+- Actively seek advice from repository maintainers, and respect their opinion, experience and time.
 
 ### For Repository Maintainers
 
 - Be friendly, welcoming and empathetic to new contributors. Properly explain to them why they are wrong when they are.
 - Try to respond to issues and pull requests within 48 hours, if possible.
 - Try to prepare _good first issues_ for new contributors to work on. Generally listing issues that people can help with would be much encouraged.
-- Provide documentation for project goals, structure, conventions, code styles, dev setup, etc.. Having a [contributing guideline](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) is encouraged.
+- Provide documentation for project goals, structure, conventions, code styles, dev setup, etc. Having a [contributing guideline](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) is encouraged.
 - Provide community guidelines. Having a [code of conduct](https://opensource.guide/code-of-conduct/) is much encouraged. Ensure that your code of conduct or community guidelines follow the same values of inclusivity and welcomingness.
 - Be transparent with your processes, what are project priorities, why decisions are made, etc.
 
