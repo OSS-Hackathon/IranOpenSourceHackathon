@@ -65,7 +65,7 @@ is unacceptable, and appropriate and fair corrective action will be taken in res
 - Avoid use of sexualized language or imagery, unwelcome sexual attention or advances.
 - Avoid trolling/insulting/derogatory language. Avoid remarks that can constitute as personal attacks.
 - Avoid behavior that can constitute as public or private harassment (whether in the forums related to these events or in other spaces).
-- Avoid publishing other's personal information (name, email, address, phone number, etc.) without their explicit permission.
+- Avoid publishing others' personal information (name, email, address, phone number, etc.) without their explicit permission.
 - Avoid any conduct that is unacceptable in a professional setting.
 
 ### For Participants
