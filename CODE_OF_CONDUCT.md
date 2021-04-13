@@ -3,9 +3,9 @@
 This code of conduct outlines acceptable, encouraged, and unacceptable behavior for organizers, participants, and repository maintainers
 participating in [Iran Open Source Hackathon](https://github.com/OSS-Hackathon/IranOpenSourceHackathon) events. Within this document:
 
-- `Organizers` denotes maintainers of this project and other people involved in decision making for these events.
-- `Participants` denotes people who contribute to repositories specified for each event.
-- `Repository Maintainers` denotes maintainers of repositories specific for each event to which participants should contribute.
+- **Organizers** denotes maintainers of this project and other people involved in decision making for these events.
+- **Participants** denotes people who contribute to repositories specified for each event.
+- **Repository Maintainers** denotes maintainers of repositories specific for each event to which participants should contribute.
 
 ## Goals & Values
 
