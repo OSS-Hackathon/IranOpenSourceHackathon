@@ -4,7 +4,7 @@
 
 The aim of these events is to (in order of priority):
 
-1. Encourage Iranian developers to further participate in open-source, mainly trhough contribution to other projects.
+1. Encourage Iranian developers to further participate in open-source, mainly through contribution to other projects.
 2. Provide a spotlight for Iranian open-source projects and help them build a community.
 
 We strive to make these events inclusive and welcoming to everyone, and provide a harassment-free and positive
