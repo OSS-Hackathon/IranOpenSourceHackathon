@@ -1,5 +1,12 @@
 # Code of Conduct
 
+This code of conduct outlines acceptable, encouraged, and unacceptable behavior for organizers, participants, and repository maintainers
+participating in [Iran Open Source Hackathon](https://github.com/OSS-Hackathon/IranOpenSourceHackathon) events. Within this document:
+
+- `Organizers` denotes maintainers of this project and other people involved in decision making for these events.
+- `Participants` denotes people who contribute to repositories specified for each event.
+- `Repository Maintainers` denotes maintainers of repositories specific for each event to which participants should contribute.
+
 ## Goals & Values
 
 The aim of these events is to (in order of priority):
@@ -37,7 +44,7 @@ is appreciated and encouraged.
 - Understand the project goals, structure, conventions, code styles, testing, etc. Follow contribution guidelines if provided.
 - Actively seek advice from maintainers, and respect their opinion and experience.
 
-### For Maintainers
+### For Repository Maintainers
 
 - Be friendly, welcoming and empathetic to new contributors. Properly explain to them why they are wrong when they are.
 - Try to respond to issues and pull requests within 48 hours, if possible.
@@ -68,7 +75,7 @@ is unacceptable, and appropriate and fair corrective action will be taken in res
 - Avoid automated pull requests (automated typo fixes, whitespace removal, image optimization).
 - Avoid focusing on issues that are not a priority for the project. Be of help, not hindrance.
 
-### For Maintainers
+### For Repository Maintainers
 
 - Avoid being elitist, harsh, discouraging, or any other attitude that goes against inclusivity, towards participants.
 - Avoid marking contributions to your own repositories for participation in the hackathon.
