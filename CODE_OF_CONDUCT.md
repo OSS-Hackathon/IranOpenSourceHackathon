@@ -1,3 +1,5 @@
+<img src="/design/code-of-conduct/goals.svg" width="320px"/>
+
 # Code of Conduct
 
 This code of conduct outlines acceptable, encouraged, and unacceptable behavior for organizers, participants, and repository maintainers
@@ -21,6 +23,9 @@ experience, etc.
 Note that these events are focused on Iranian open source community. If you are not Iranian, you are still more than welcome to 
 participate and/or enter repositories in the hackathon. While we greatly appreciate either (or any other form of contribution),
 we might be unable to provide a spotlight for your contributions.
+
+<br><br>
+<img src="/design/code-of-conduct/harmony.svg" width="320px"/>
 
 ## Encouraged Behavior
 
@@ -53,7 +58,8 @@ is appreciated and encouraged.
 - Provide community guidelines. Having a [code of conduct](https://opensource.guide/code-of-conduct/) is much encouraged. Ensure that your code of conduct or community guidelines follow the same values of inclusivity and welcomingness.
 - Be transparent with your processes, what are project priorities, why decisions are made, etc.
 
-<br>
+<br><br>
+<img src="/design/code-of-conduct/conflict.svg" width="320px"/>
 
 ## Unacceptable Behavior
 
@@ -81,6 +87,10 @@ is unacceptable, and appropriate and fair corrective action will be taken in res
 - Avoid marking contributions to your own repositories for participation in the hackathon.
 - Avoid information disparity, favoritsm towards certain individuals / groups, stalling, or any action that is clearly with
 the intent of providing unfair competitive advantage.
+
+<br><br>
+
+<img src="/design/code-of-conduct/scope.svg" width="320px"/>
 
 # Responsibilities
 
