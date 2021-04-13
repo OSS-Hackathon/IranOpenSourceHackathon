@@ -5,6 +5,8 @@ There is a [curated list of repositories][REPOS] whose maintainers volunteered t
 
 👉 If you are a maintainer and want to enter some of your repositories in the hackathon so our participants will contribute to them, check [this section][MAINTS].
 
+<br>
+
 <details>
 
 <summary>A Note on Terminology</summary>
