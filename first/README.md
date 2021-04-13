@@ -3,17 +3,39 @@
 _Iran Open Source Hackathon_ is an open-source hackathon (duh) with the aim of encouraging participation in open-source contribution amongst Iranian developers.
 There is a [curated list of repositories][REPOS] whose maintainers volunteered to be part of the hackathon. Contribute to any of these repositories [during the hackathon][DURATION], and at the end [top contributors will be acknowledged here][TOP-CONTS] (so yes in the end its just about bragging rights).
 
-In this readme and in [the code of conduct][COC], keywords **MUST**, **MUST NOT**, **REQUIRED**, **SHALL**, **SHALL NOT**, **SHOULD**, **SHOULD NOT**, **RECOMMENDED**, **MAY**, and **OPTIONAL**, when appearing in caps lock and in bold, are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119). This is not a software spec document, but still the extra clarity helps avoiding confusion.
-
 👉 If you are a maintainer and want to enter some of your repositories in the hackathon so our participants will contribute to them, check [this section][MAINTS].
 
-> ⚠️⚠️ **NOTICE**
->
+<details>
+
+<summary>A Note on Terminology</summary>
+
+<br>
+
+> In this readme and in [the code of conduct][COC], keywords **MUST**, **MUST NOT**, **REQUIRED**, **SHALL**, **SHALL NOT**, **SHOULD**, **SHOULD NOT**,
+> **RECOMMENDED**, **MAY**, and **OPTIONAL**, when appearing in caps lock and in bold, are to be interpreted as described in [RFC 2119
+> (https://tools.ietf.org/html/rfc2119). This is not a software spec document, but still the extra clarity helps avoiding confusion.
+
+<br>
+
+</details>
+
+<details>
+  
+<summary>
+⚠️⚠️ WORK IN PROGRESS NOTICE
+</summary>
+
+<br>
+
 > This is work in progress. As long as this notice is up here, any rule, date, information, etc is subject to sudden change without
 > any prior notice.
 >
 > If a piece of information is followed by `⚠️`, then there is a good chance we will change it in near future and current
 > information is mostly a placeholder.
+
+<br>
+
+</details>
 
 <br>
 
