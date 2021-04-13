@@ -17,8 +17,8 @@ we might be unable to provide a spotlight for your contributions.
 
 ## Encouraged Behavior
 
-Generally speaking, any action or interaction that intents towards aforementioned goals and values
-and does effectively strives towards them is appreciated and encouraged.
+Generally speaking, any action or interaction that strives towards aforementioned goals and values
+is appreciated and encouraged.
 
 ### Examples
 
