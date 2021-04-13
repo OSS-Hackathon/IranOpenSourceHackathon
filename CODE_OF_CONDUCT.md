@@ -11,7 +11,7 @@ We strive to make these events inclusive and welcoming to everyone, and provide 
 environment for all, regardless of gender, sexual identity, age, ethnicity, disability, 
 experience, etc.
 
-Note that the event is focused on Iranian open source community. If you are not Iranian, you still more than welcome to 
+Note that these events are focused on Iranian open source community. If you are not Iranian, you still more than welcome to 
 participate and/or enter repositories in the hackathon. While we greatly appreciate either (or any other form of contribution),
 we might be unable to provide a spotlight for your contributions.
 
