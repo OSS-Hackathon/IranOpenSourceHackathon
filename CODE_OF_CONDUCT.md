@@ -42,7 +42,7 @@ is appreciated and encouraged.
 - Check the issues and pull requests before submitting.
 - When in-doubt, create issues beforehand to discuss your solution with maintainers.
 - Understand the project goals, structure, conventions, code styles, testing, etc. Follow contribution guidelines if provided.
-- Actively seek advice from maintainers, and respect their opinion and experience.
+- Actively seek advice from maintainers, and respect their opinion, experience and time.
 
 ### For Repository Maintainers
 
