@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="600px" viewBox="0 0 1440 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>scope</title>
+    <g id="scope" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(1211.000000, 327.000000) rotate(-30.000000) translate(-1211.000000, -327.000000) translate(1057.000000, 136.000000)" stroke="#1A508B" stroke-width="8">
+            <ellipse id="Oval" cx="33.5" cy="85.5" rx="33.5" ry="71.5"></ellipse>
+            <path d="M87.2254953,145.434477 C92.4809634,152.74907 98.7578891,157 105.5,157 C124.001539,157 139,124.98836 139,85.5 C139,46.0116404 124.001539,14 105.5,14 C98.6544644,14 92.2884955,18.3823502 86.9843602,25.9043017" id="Path"></path>
+            <path d="M187.5,157 C206.001539,157 221,124.98836 221,85.5 C221,46.0116404 206.001539,14 187.5,14" id="Path"></path>
+            <path d="M95,145 C110.463973,145 123,118.360943 123,85.5 C123,52.6390574 110.463973,26 95,26" id="Path"></path>
+            <path d="M206.5,145 C221.963973,145 231,118.360943 231,85.5 C231,52.6390574 221.963973,26 206.5,26" id="Path"></path>
+            <path d="M236,145 C251.463973,145 264,118.360943 264,85.5 C264,52.6390574 251.463973,26 236,26" id="Path"></path>
+            <line x1="105.5" y1="157" x2="187.5" y2="157" id="Path-13"></line>
+            <line x1="105.5" y1="14" x2="187.5" y2="14" id="Path-13-Copy"></line>
+            <line x1="72" y1="26" x2="95" y2="26" id="Path-13-Copy-2"></line>
+            <line x1="72" y1="145" x2="95" y2="145" id="Path-13-Copy-3"></line>
+            <line x1="208" y1="145" x2="236" y2="145" id="Path-13-Copy-4"></line>
+            <line x1="210" y1="26" x2="235.5" y2="26" id="Path-13-Copy-5"></line>
+            <ellipse id="Oval" cx="43" cy="85" rx="43" ry="81"></ellipse>
+            <path d="M239.5,145 C246.893643,156.309007 254.733675,162 265,162 C288.748244,162 308,125.735065 308,81 C308,36.2649353 288.748244,0 265,0 C252.529472,0 241.298826,9.9998519 233.444581,25.9749472" id="Path"></path>
+            <line x1="139" y1="157" x2="139" y2="382" id="Path-14"></line>
+            <line x1="168" y1="157" x2="168" y2="382" id="Path-14-Copy"></line>
+        </g>
+    </g>
+</svg>
