@@ -50,7 +50,7 @@ Contribute to one of [these repositories][REPOS] during the [time of the hackath
 - Each pull request will count towards your total score (depends on how many lines of code it is ⚠️).
 - At the end, top 5⚠️ contributors (highest scores ⚠️) will be acknowledged [here][TOP-CONTS]. We might update the list during the hackathon as well.
 
-If you are unfamiliar with open-source contribution, git or github, take a look at [these resources][TUTS].
+👉 If you are unfamiliar with open-source contribution, git or github, take a look at [these resources][TUTS].
 
 **NOTE**: Please carefully read our [code of conduct][COC] before you start contributing.
 
