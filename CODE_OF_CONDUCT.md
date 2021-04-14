@@ -1,4 +1,6 @@
-<img src="/design/code-of-conduct/goals.svg" width="320px"/>
+<div align="right">
+<img src="/design/code-of-conduct/goals.svg" width="512px"/>
+</div>
 
 # Code of Conduct
 
@@ -25,7 +27,9 @@ participate and/or enter repositories in the hackathon. While we greatly appreci
 we might be unable to provide a spotlight for your contributions.
 
 <br><br>
-<img src="/design/code-of-conduct/harmony.svg" width="320px"/>
+<div align="right">
+<img src="/design/code-of-conduct/harmony.svg" width="512px"/>
+</div>
 
 ## Encouraged Behavior
 
@@ -59,7 +63,9 @@ is appreciated and encouraged.
 - Be transparent with your processes, what are project priorities, why decisions are made, etc.
 
 <br><br>
-<img src="/design/code-of-conduct/conflict.svg" width="320px"/>
+<div align="right">
+<img src="/design/code-of-conduct/conflict.svg" width="512px"/>
+</div>
 
 ## Unacceptable Behavior
 
@@ -90,7 +96,9 @@ the intent of providing unfair competitive advantage.
 
 <br><br>
 
-<img src="/design/code-of-conduct/scope.svg" width="320px"/>
+<div align="right">
+<img src="/design/code-of-conduct/scope.svg" width="512px"/>
+</div>
 
 # Responsibilities
 
