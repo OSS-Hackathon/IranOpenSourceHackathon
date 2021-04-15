@@ -46,7 +46,7 @@ is appreciated and encouraged.
 
 ### For Participants
 
-- First and foremost, focus on improving the projecs you contribute to.
+- First and foremost, focus on improving the projects you contribute to.
 - Read provided documents for each repository you want to contribute to. Specifically, follow their code of conduct.
 - Check the issues and pull requests before submitting.
 - When in-doubt, create issues beforehand to discuss your solution with repository maintainers.
