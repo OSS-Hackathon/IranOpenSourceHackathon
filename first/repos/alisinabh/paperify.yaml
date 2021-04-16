@@ -1,0 +1,6 @@
+name: paperify
+description: Backup files on paper using QRCodes.
+maintainers:
+  - alisinabh
+languages:
+  - shell
