@@ -1,0 +1,6 @@
+name: BarnameKon
+description: Telegram bot which create "Add to Google Calendar" link for your events. 
+maintainers:
+  - anvaari
+languages:
+  - python
