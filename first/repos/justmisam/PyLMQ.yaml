@@ -1,0 +1,6 @@
+name: PyLMQ
+description: Python Library for LMQ
+maintainers:
+  - justmisam
+languages:
+  - Python

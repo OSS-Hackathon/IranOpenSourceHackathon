@@ -1,0 +1,6 @@
+name: Lightweight Message Queue (LMQ)
+description: A lightweight message queue to work with short messages or content references as messages.
+maintainers:
+  - justmisam
+languages:
+  - Go
