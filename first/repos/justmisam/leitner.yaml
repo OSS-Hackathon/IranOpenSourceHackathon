@@ -1,0 +1,8 @@
+name: Letiner
+description: An intelligent Leitner to memorize information, especially words, without needing to maintain boxes manually. It can be synced with Dropbox.
+maintainers:
+  - justmisam
+languages:
+  - Javascript
+  - HTML
+  - CSS
