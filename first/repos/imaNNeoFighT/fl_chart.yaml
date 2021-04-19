@@ -1,0 +1,6 @@
+name: FL Chart
+description: A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.
+maintainers:
+  - imaNNeoFighT
+languages:
+  - dart
