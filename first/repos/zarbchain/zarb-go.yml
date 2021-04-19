@@ -1,0 +1,6 @@
+name: Zarb project
+description: Zarb blockchain
+languages:
+  - Go
+  - Rust
+  - Javascript
