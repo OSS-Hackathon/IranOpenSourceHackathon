@@ -1,0 +1,6 @@
+name: Laravel Toman
+description: Elegant Zarinpal and IDPay payment gateways for Laravel
+maintainers:
+  - AmirrezaNasiri
+languages:
+  - PHP
