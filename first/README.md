@@ -105,7 +105,7 @@ maintainers:
   - maliheh
 ```
 
-👉 If your repo belongs to a company, you **MUST** specify maintainers independently.
+👉 If your repo belongs to a company or organization, you **MUST** specify maintainers independently.
 
 **NOTE**: Please carefully read our [code of conduct][COC] before you submit your repositories.
 
