@@ -1,5 +1,7 @@
 name: Zarb project
 description: Zarb blockchain
+maintainers:
+  - b00f
 languages:
   - Go
   - Rust
