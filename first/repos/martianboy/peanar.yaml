@@ -1,0 +1,4 @@
+name: Peanar
+description: A background job scheduler for Node.js based on RabbitMQ
+languages:
+  - typescript
