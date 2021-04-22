@@ -1,5 +1,7 @@
 name: Javascript persian interview questions
 description: A book with more than 1000 js questions
+maintainers:
+  - sayjeyhi
 languages:
   - javascript
   - markdown
