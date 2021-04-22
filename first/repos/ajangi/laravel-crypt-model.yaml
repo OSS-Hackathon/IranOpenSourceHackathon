@@ -1,0 +1,6 @@
+name: Laravel Crypt Model
+description: Encoding and Decoding laravel model attributes made easy.
+maintainers:
+  - ajangi
+languages:
+  - php
