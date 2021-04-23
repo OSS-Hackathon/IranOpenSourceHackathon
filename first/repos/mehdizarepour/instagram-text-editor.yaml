@@ -1,0 +1,6 @@
+name: instagram-text-editor
+description: An Instagram like text editor Flutter widget that helps you to change your text style.
+maintainers:
+  - mehdizarepour
+languages:
+  - Dart

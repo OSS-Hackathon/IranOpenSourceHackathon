@@ -1,0 +1,6 @@
+name: flutter-global-configs
+description: A flutter package to manage application configurations via singleton pattern.
+maintainers:
+  - mehdizarepour
+languages:
+  - Dart

@@ -1,0 +1,6 @@
+name: gato
+description: A dart utility library inspired by javascript lodash library.
+maintainers:
+  - mehdizarepour
+languages:
+  - Dart
