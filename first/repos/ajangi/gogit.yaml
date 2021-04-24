@@ -1,0 +1,6 @@
+name: gogit
+description: A simple Github Toolkit written in Golang
+maintainers:
+  - ajangi
+languages:
+  - golang

@@ -1,0 +1,6 @@
+name: PHP Rest Response
+description: A PHP standard response structure to unify responses between microservices.
+maintainers:
+  - ajangi
+languages:
+  - php
