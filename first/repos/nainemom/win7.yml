@@ -1,0 +1,6 @@
+name: Microsoft Windows 7 Preview on Web
+description: Yet another OS preview via web technologies focused on Microsoft Windows 7.
+maintainers:
+  - nainemom
+languages:
+  - javascript
