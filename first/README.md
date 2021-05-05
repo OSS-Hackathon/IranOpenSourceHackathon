@@ -1,5 +1,7 @@
 ![logo](/design/logo/svg/logo-type-dark.svg)
 
+[![Join the chat at https://gitter.im/Iran-Open-Source-Hackathon/community](https://badges.gitter.im/Iran-Open-Source-Hackathon/community.svg)](https://gitter.im/Iran-Open-Source-Hackathon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 _Iran Open Source Hackathon_ is an open-source hackathon (duh) with the aim of encouraging participation in open-source contribution amongst Iranian developers.
 There is a [curated list of repositories][REPOS] whose maintainers volunteered to be part of the hackathon. Contribute to any of these repositories [during the hackathon][DURATION], and at the end [top contributors will be acknowledged here][TOP-CONTS] (so yes in the end its just about bragging rights).
 
@@ -50,7 +52,7 @@ Contribute to one of [these repositories][REPOS] during the [time of the hackath
 - Each pull request will count towards your total score (depends on how many lines of code it is ⚠️).
 - At the end, top 5⚠️ contributors (highest scores ⚠️) will be acknowledged [here][TOP-CONTS]. We might update the list during the hackathon as well.
 
-👉 If you are unfamiliar with open-source contribution, git or github, take a look at [these resources][TUTS].
+👉 If you are unfamiliar with open-source contribution, git or github, take a look at [these resources][TUTS]. You could also join us at [gitter](https://gitter.im/Iran-Open-Source-Hackathon/community) to seek help and pointers.
 
 **NOTE**: Please carefully read our [code of conduct][COC] before you start contributing.
 
