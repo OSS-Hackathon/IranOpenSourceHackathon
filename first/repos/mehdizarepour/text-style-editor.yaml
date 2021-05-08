@@ -1,0 +1,6 @@
+name: text-style-editor
+description: Text style editor widget for flutter.
+maintainers:
+  - mehdizarepour
+languages:
+  - Dart
