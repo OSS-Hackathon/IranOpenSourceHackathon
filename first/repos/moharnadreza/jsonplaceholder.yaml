@@ -1,0 +1,8 @@
+name: jsonplaceholder
+description: RTL fake REST/GraphQL API for testing and prototyping.
+maintainers:
+  - moharnadreza
+languages:
+  - TypeScript
+  - JavaScript
+  - CSS
