@@ -1,0 +1,7 @@
+name: Icecream
+description: ICECREAM framework for Bottle designed to simplify building restful API.
+maintainers:
+  - Amirhosein Lesani
+  - Navid Nabavi
+languages:
+  - Python
