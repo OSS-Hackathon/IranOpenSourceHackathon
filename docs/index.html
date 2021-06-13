@@ -193,59 +193,25 @@
 								</div>
 							</li>
 							<li class="l-section section">
-								<div class="work">
-									<h2>36 awesome open source projects for you</h2>
+								<div class="work projects">
+									<h2><!-- Repos Count -->29<!-- /Repos Count --> awesome open source projects for you</h2>
 									<div class="work--lockup">
 										<ul class="slider">
-											<li class="slider--item slider--item-left">
-												<a href="https://github.com/imaNNeoFighT/fl_chart">
-													<p class="slider--item-title">
-														<small>36- </small>FL Chart
-													</p>
+											<!-- Repo Item Template -->
+											<!--<li class="slider--item">
+												<a href="{{link}}">
+													<p class="slider--item-title">{{title}}</p>
 													<ul class="slider--item-description">
 														<li>
-															<b>Description:</b> A powerful Flutter chart
-															library, currently supporting Line Chart, Bar
-															Chart, Pie Chart, Scatter Chart and Radar Chart.
+															<b>Description:</b> {{description}}
 														</li>
 														<br />
-														<li><b>Languages:</b> dart</li>
+														<li><b>Languages:</b> {{languages}}</li>
 													</ul>
 												</a>
-											</li>
-											<li class="slider--item slider--item-center">
-												<a href="https://github.com/divar-ir/divar-starter-kit">
-													<p class="slider--item-title">
-														<small>1- </small>divar-starter-kit
-													</p>
-													<ul class="slider--item-description">
-														<li>
-															<b>Description:</b> React.js SSR-ready boilerplate
-															using Razzle.
-														</li>
-														<br />
-														<li><b>Languages:</b> javascript</li>
-													</ul>
-												</a>
-											</li>
-											<li class="slider--item slider--item-right">
-												<a
-													href="https://github.com/Mariotek/reactjs-persian-interview-questions"
-												>
-													<p class="slider--item-title">
-														<small>2- </small>React.js persian interview
-														questions
-													</p>
-													<ul class="slider--item-description">
-														<li>
-															<b>Description:</b> A book with more than 300
-															react.js questions
-														</li>
-														<br />
-														<li><b>Languages:</b> javascript, markdown</li>
-													</ul>
-												</a>
-											</li>
+											</li>--><!-- /Repo Item Template -->
+											<!-- Repos List -->
+											<!-- /Repos List -->
 										</ul>
 										<div class="slider--prev">
 											<svg
@@ -407,5 +373,21 @@
 				);
 		</script>
 		<script src="assets/js/functions-min.js"></script>
+		<script>
+			$(function () {
+				// Shuffle the projects order
+				var slider = $(".projects .slider");
+				var slides = $(".slider--item", slider).get();
+				slider.empty();
+				slides = slides
+					.map(function (x) { return [Math.random(), x]; })
+					.sort(function (x, y) { return y[0] - x[0]; })
+					.map(function (x) { return x[1]; });
+				slides[0].classList.add("slider--item-left");
+				slides[1].classList.add("slider--item-center");
+				slides[2].classList.add("slider--item-right");
+				slider.append(slides);
+			});
+		</script>
 	</body>
 </html>
