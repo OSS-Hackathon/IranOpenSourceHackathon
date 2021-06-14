@@ -1,0 +1,4 @@
+name: webp-server
+description: Simple and minimal image server capable of storing, resizing, converting and caching images.
+languages:
+  - Go
