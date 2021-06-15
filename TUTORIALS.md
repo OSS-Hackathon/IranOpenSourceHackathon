@@ -12,6 +12,10 @@ A series of articles provided by _Digital Ocean Community_ :
 - How To Maintain Open-Source Software Projects
 - How To Use Git: A Reference Guide
 
+## [First Contributions](https://github.com/firstcontributions/first-contributions)
+
+Provides a very brief instruction into how to make your first contribution to an open source project. [Check here](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md) for the Perisan translation.
+
 ## [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 A series of articles provided by _Open Source Guides_ :
@@ -27,3 +31,4 @@ A series of articles provided by _Open Source Guides_ :
 
 A 38 minutes video tutorial by _Kent C. Dodds on Egghead_:
 Showing all the necessary information about git and Github in action (For those who prefer video contents).
+
