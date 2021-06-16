@@ -183,8 +183,8 @@ Ideally, submit your repositories before the start of the hackathon, though you 
 > _To be determined_
 
 <!-- CONTRIBUTORS_STATS TABLE -->
- | Contributor | Total PRs | Repos |
- | --- | --- | --- |
+ | Contributor | Total PRs | Repos | 
+ | --- | --- | --- | 
 
 <!-- /CONTRIBUTORS_STATS TABLE -->
 
@@ -195,8 +195,8 @@ Ideally, submit your repositories before the start of the hackathon, though you 
 > _To be determined_
 
 <!-- REPOS_STATS TABLE -->
- | Repo | Total PRs | Contributors |
- | --- | --- | --- |
+ | Repo | Total PRs | Contributors | 
+ | --- | --- | --- | 
 
 <!-- /REPOS_STATS TABLE -->
 
