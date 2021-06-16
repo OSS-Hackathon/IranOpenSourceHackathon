@@ -1,4 +1,4 @@
-name: Update Repositories Table in Readme
+name: Update Repositories Table in Readme and Website
 on:
   push:
     branches:
@@ -41,6 +41,12 @@ jobs:
       #
       - name: Update Repositories Table in Readme
         run: python ./scripts/generate_repos_table.py first
+
+      #
+      # Update the repositories table in index.html
+      #
+      - name: Update Repositories Table in Website
+        run: ./scripts/update_website_repos.py first
 
       #
       # Commit the changes
