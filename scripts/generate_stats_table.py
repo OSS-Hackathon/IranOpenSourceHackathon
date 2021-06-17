@@ -33,7 +33,10 @@ def contributors_stats_table(stats):
             ),
             "Total PRs": lambda contributor: str(contributor["total_prs"]),
             "Repos": lambda contributor: comma_separated(
-                set(github_repo_link(repo, repo) for repo in contributor["repos"])
+                set(
+                    github_repo_pr_search_link(repo, repo)
+                    for repo in contributor["repos"]
+                )
             ),
         },
         sorted(
