@@ -32,13 +32,13 @@ jobs:
       # Fetch updated PR stats into first/stats.json
       #
       - name: Fetch updates
-        run: python ./scripts/update_stats.py first
+        run: ./scripts/update_stats.py first
 
       #
       # Update the stats tables in README.md
       #
       - name: Update stats Tables in Readme
-        run: python ./scripts/generate_stats_table.py first
+        run: ./scripts/generate_stats_table.py first
 
       #
       # Commit the changes
