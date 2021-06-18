@@ -20,11 +20,11 @@ def contributors_stats_table(stats):
                 contributors[username]["total_prs"] += 1
                 contributors[username]["repos"].append(repo)
             else:
-                contributors[username] = dict(
-                    username=username,
-                    total_prs=1,
-                    repos=[repo],
-                )
+                contributors[username] = {
+                    "username": username,
+                    "total_prs": 1,
+                    "repos": [repo],
+                }
 
     return md_table(
         {
@@ -33,10 +33,7 @@ def contributors_stats_table(stats):
             ),
             "Total PRs": lambda contributor: str(contributor["total_prs"]),
             "Repos": lambda contributor: comma_separated(
-                set(
-                    github_repo_pr_search_link(repo, repo)
-                    for repo in contributor["repos"]
-                )
+                {github_repo_pr_search_link(repo, repo) for repo in contributor["repos"]}
             ),
         },
         sorted(
@@ -58,25 +55,11 @@ def repos_stats_table(stats):
             "Contributors": lambda repo: comma_separated(repo["contributors"]),
         },
         sorted(
-            filter(
-                lambda repo: repo["total_prs"] > 0,
-                map(
-                    lambda repo: dict(
-                        name=repo,
-                        total_prs=len(stats[repo]),
-                        contributors=map(
-                            lambda contributor: github_user_link(contributor),
-                            set(
-                                map(
-                                    lambda pr: pr["user"]["login"],
-                                    stats[repo],
-                                )
-                            ),
-                        ),
-                    ),
-                    stats,
-                ),
-            ),
+            ({
+                "name": repo_name,
+                "total_prs": len(prs),
+                "contributors": {github_user_link(pr["user"]["login"]) for pr in prs},
+            } for repo_name, prs in stats.items() if len(prs)),
             key=lambda repo: repo["total_prs"],
             reverse=True,
         ),
