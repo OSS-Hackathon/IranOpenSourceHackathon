@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import os
 import urllib.request
@@ -58,7 +59,7 @@ def main():
         exit(1)
 
     event = sys.argv[1]
-    prs = dict()
+    prs = {}
     for r in repos.load_repos(event):
         items = fetch_repo_prs(r["owner"], r["slug"])
         if items is not None:

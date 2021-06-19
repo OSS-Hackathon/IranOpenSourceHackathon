@@ -15,16 +15,10 @@ def md_table(meta, data):
 
     columns = meta.keys()
     header = WALL + WALL.join(columns) + WALL
-    separator = WALL + WALL.join(map(lambda _: FLOOR, columns)) + WALL + NEWLINE
+    separator = WALL + WALL.join(FLOOR for _ in columns) + WALL + NEWLINE
 
-    rows = map(
-        lambda entry: WALL + WALL.join(
-            map(
-                lambda col: meta[col](entry)
-                , columns
-            )
-        ) + WALL
-        , data
+    rows = NEWLINE.join(
+        WALL + WALL.join(meta[col](entry) for col in columns) + WALL for entry in data
     )
 
-    return header + NEWLINE + separator + NEWLINE.join(rows)
+    return header + NEWLINE + separator + rows

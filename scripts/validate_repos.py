@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import sys
 import urllib.request
@@ -8,7 +9,7 @@ from util.repos import load_repos
 def check_repo(owner, repo):
     try:
         with urllib.request.urlopen(github_repo_url(owner, repo)) as response:
-            if (response.status != 200):
+            if response.status != 200:
                 print(f'❌ failed: {owner}/{repo}')
                 return False
             else:
@@ -24,7 +25,7 @@ def check_repos(repos):
     checked = 0
     for repo in repos:
         checked += 1
-        if (not check_repo(repo['owner'], repo['slug'])):
+        if not check_repo(repo['owner'], repo['slug']):
             errors += 1
 
     return checked, errors
@@ -40,7 +41,7 @@ def main():
     checked, errors = check_repos(repos)
 
     print(f'{checked} checked, {errors} failed')
-    if (errors > 0):
+    if errors > 0:
         exit(1)
 
 

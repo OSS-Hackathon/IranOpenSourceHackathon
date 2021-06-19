@@ -37,5 +37,5 @@ jobs:
       # Run the validation script
       #
       - name: Validate Repositories
-        run: python ./scripts/validate_repos.py first
+        run: ./scripts/validate_repos.py first
 

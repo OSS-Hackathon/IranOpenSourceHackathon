@@ -34,13 +34,13 @@ jobs:
       # Validate repository files first
       #
       - name: Validate Repositories
-        run: python ./scripts/validate_repos.py first
+        run: ./scripts/validate_repos.py first
 
       #
       # Update the repositories table in README.md
       #
       - name: Update Repositories Table in Readme
-        run: python ./scripts/generate_repos_table.py first
+        run: ./scripts/generate_repos_table.py first
 
       #
       # Update the repositories table in index.html
