@@ -4,7 +4,7 @@ import sys
 import json
 
 from util.markdown import comma_separated, md_table, NEWLINE
-from util.github import github_user_link, github_repo_link, github_repo_pr_search_link
+from util.github import github_user_link, github_repo_pr_search_link
 
 README_FILE = "README.md"
 STATS_FILE = "stats.json"

@@ -2,7 +2,7 @@
 import os
 import sys
 
-from util.markdown import comma_separated, md_link, md_table, NEWLINE
+from util.markdown import comma_separated, md_table, NEWLINE
 from util.github import github_user_link, github_repo_link
 from util.repos import load_repos
 
