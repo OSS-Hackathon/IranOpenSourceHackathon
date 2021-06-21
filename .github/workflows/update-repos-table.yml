@@ -5,6 +5,9 @@ on:
     - main
     paths:
       - 'first/repos/**'
+      - 'scripts/generate_repos_table.py'
+      - 'scripts/update_website_repos.py'
+      - 'docs/index.html'
 jobs:
   do:
     runs-on: ubuntu-latest
