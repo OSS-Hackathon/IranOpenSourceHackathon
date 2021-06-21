@@ -1,5 +1,6 @@
 import os
 import yaml
+import random
 
 
 def repo_info_from_path(file, dir):
@@ -28,7 +29,7 @@ def fill_repo_details(repo, dir, file):
         repo['maintainers'] = [repo['owner']]
 
 
-def load_repos(event):
+def load_repos(event, shuffle=False):
     FOLDER = 'repos'
     repos = []
     for current_path, _, files in os.walk(os.path.join(event, FOLDER)):
@@ -37,5 +38,9 @@ def load_repos(event):
                 repo = yaml.full_load(f)
                 fill_repo_details(repo, current_path, file)
             repos.append(repo)
+
+    if shuffle:
+        # apply a stable shuffle
+        random.Random(yaml.dump(repos)).shuffle(repos)
 
     return repos
