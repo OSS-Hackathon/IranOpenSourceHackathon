@@ -48,7 +48,8 @@ def main():
         exit("Invalid argument")
 
     event = sys.argv[1]
-    update_website(event, load_repos(event))
+    repos = load_repos(event, shuffle=True)
+    update_website(event, repos)
 
 
 if __name__ == "__main__":

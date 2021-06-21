@@ -38,7 +38,7 @@ def main():
         exit(1)
 
     event = sys.argv[1]
-    repos = load_repos(event)
+    repos = load_repos(event, shuffle=True)
     table = repos_table(repos)
     write_repos(event, table)
 
