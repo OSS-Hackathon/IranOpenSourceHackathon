@@ -45,8 +45,12 @@ jobs:
       #
       - name: Set git status env var
         run: |
-          (git diff --exit-code)
-          echo "git_has_diff=$?" >> $GITHUB_ENV
+          if git diff --exit-code
+          then
+            echo "git_has_diff=0" >> $GITHUB_ENV
+          else
+            echo "git_has_diff=1" >> $GITHUB_ENV
+          fi
 
       #
       # Commit the changes
