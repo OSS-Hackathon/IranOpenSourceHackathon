@@ -2,12 +2,12 @@ name: Update Repositories Table in Readme and Website
 on:
   push:
     branches:
-    - main
+      - main
     paths:
-      - 'first/repos/**'
-      - 'scripts/generate_repos_table.py'
-      - 'scripts/update_website_repos.py'
-      - 'docs/index.html'
+      - "first/repos/**"
+      - "scripts/generate_repos_table.py"
+      - "scripts/update_website_repos.py"
+      - "docs/index.html"
 jobs:
   do:
     runs-on: ubuntu-latest
