@@ -47,7 +47,7 @@ There is a [curated list of repositories][REPOS] whose maintainers volunteered t
 
 Contribute to one of [these repositories][REPOS] during the [time of the hackathon][DURATION]:
 
-- Make a pull request, include #iosh⚠️ in its title⚠️.
+- Make a pull request, include **#iosh** in its title, body or comments.
 - The pull request **MUST** be accepted to the repository before [the end of the hackathon][DURATION].
 - Each pull request will count towards your total score (depends on how many lines of code it is ⚠️).
 - At the end, top 5⚠️ contributors (highest scores ⚠️) will be acknowledged [here][TOP-CONTS]. We might update the list during the hackathon as well.
@@ -120,7 +120,6 @@ maintainers:
 
 <!-- Repos Table -->
  | Name | Description | Owner | Maintainer(s) | Languages | 
- | --- | --- | --- | --- | --- | 
  | [paperify](https://github.com/alisinabh/paperify) | Backup files on paper using QRCodes. | [alisinabh](https://github.com/alisinabh) | [alisinabh](https://github.com/alisinabh) | shell | 
  | [divar-starter-kit](https://github.com/divar-ir/divar-starter-kit) | React.js SSR-ready boilerplate using Razzle. | [divar-ir](https://github.com/divar-ir) | [iMohammadReza](https://github.com/iMohammadReza) | javascript | 
  | [Peanar](https://github.com/martianboy/peanar) | A background job scheduler for Node.js based on RabbitMQ | [martianboy](https://github.com/martianboy) | [martianboy](https://github.com/martianboy) | typescript | 
