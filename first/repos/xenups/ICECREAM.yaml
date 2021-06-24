@@ -1,7 +1,7 @@
 name: ICECREAM
 description: ICECREAM framework for Bottle designed to simplify building restful API.
 maintainers:
-  - Amirhosein Lesani
-  - Navid Nabavi
+  - xenups
+  - navidnabavi
 languages:
   - Python
