@@ -49,8 +49,8 @@ Contribute to one of [these repositories][REPOS] during the [time of the hackath
 
 - Make a pull request, include **#iosh** in its title, body or comments.
 - The pull request **MUST** be accepted to the repository before [the end of the hackathon][DURATION].
-- Each pull request will count towards your total score (depends on how many lines of code it is ⚠️).
-- At the end, top 5⚠️ contributors (highest scores ⚠️) will be acknowledged [here][TOP-CONTS]. We might update the list during the hackathon as well.
+- Each pull request will count towards your total score.
+- At the end, all top contributors (highest number of PRs) will be acknowledged [here][TOP-CONTS]. We'll update the list during the hackathon every 3 hours as well.
 
 👉 If you are unfamiliar with open-source contribution, git or github, take a look at [these resources][TUTS]. You could also join us at [gitter](https://gitter.im/Iran-Open-Source-Hackathon/community) to seek help and pointers.
 
@@ -177,7 +177,7 @@ Your pull requests **MUST** be submitted after beginning of the hackathon period
 
 ### 👉 For Maintainers
 
-Ideally, submit your repositories before the start of the hackathon, though you can (⚠️) submit it during the duration of the hackathon as well.
+Ideally, submit your repositories before the start of the hackathon, though you can submit it during the duration of the hackathon as well.
 
 <br>
 
