@@ -104,7 +104,7 @@ languages:
 # 👉 also don't forget the repo owner if they are going to be a maintainer as well
 #
 maintainers:
-  - jafar
+  - jafar            # 👉 MUST be GitHub username, NOT YOUR NAME!
   - asghar
   - nooshin
   - maliheh
