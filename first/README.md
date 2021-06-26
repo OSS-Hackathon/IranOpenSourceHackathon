@@ -23,7 +23,7 @@ There is a [curated list of repositories][REPOS] whose maintainers volunteered t
 
 </details>
 
-<details>
+<!-- <details>
   
 <summary>
 ⚠️⚠️ WORK IN PROGRESS NOTICE
@@ -39,7 +39,7 @@ There is a [curated list of repositories][REPOS] whose maintainers volunteered t
 
 <br>
 
-</details>
+</details> -->
 
 <br>
 
