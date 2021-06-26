@@ -1,0 +1,6 @@
+name: NetShears
+description: iOS Network interceptor framework written in Swift.
+maintainers:
+  - mehdiimrz
+languages:
+  - Swift
