@@ -1,0 +1,7 @@
+name: Cati Package Manager
+description: A Package manager for UNIX operating systems
+maintainers:
+  - parsampsh
+languages:
+  - python
+  - Python
