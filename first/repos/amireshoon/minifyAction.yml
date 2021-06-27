@@ -1,0 +1,7 @@
+name: MinifyAction
+description: Minify CSS, Js, and Html files on push to Main or Another Branch with Github Actions
+maintainers:
+  - amireshoon
+languages:
+  - shell
+  - python
