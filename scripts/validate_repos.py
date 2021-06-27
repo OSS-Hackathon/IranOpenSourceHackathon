@@ -2,7 +2,7 @@
 import os
 import sys
 import urllib.request
-from util.github import github_repo_url
+from util.github import github_repo_url, GITHUB_BASE
 from util.repos import load_repos
 
 
@@ -17,7 +17,12 @@ def make_request(url) -> bool:
         return False
 
 def check_maintainers_name(owner):
-    pass
+    if make_request(f"{GITHUB_BASE}/{owner}"):
+        print(f'✅ passed: {owner}')
+        return True
+    else:
+        print(f'❌ failed: {owner}')
+        return False
 
 def check_repo(owner, repo):
     if make_request(github_repo_url(owner, repo)):
@@ -34,6 +39,8 @@ def check_repos(repos):
     for repo in repos:
         checked += 1
         if not check_repo(repo['owner'], repo['slug']):
+            errors += 1
+        if not check_maintainers_name(repo['owner']):
             errors += 1
 
     return checked, errors
