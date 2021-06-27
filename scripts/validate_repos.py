@@ -6,16 +6,24 @@ from util.github import github_repo_url
 from util.repos import load_repos
 
 
-def check_repo(owner, repo):
+def make_request(url) -> bool:
     try:
-        with urllib.request.urlopen(github_repo_url(owner, repo)) as response:
+        with urllib.request.urlopen(url) as response:
             if response.status != 200:
-                print(f'❌ failed: {owner}/{repo}')
                 return False
             else:
-                print(f'✅ passed: {owner}/{repo}')
                 return True
     except:
+        return False
+
+def check_maintainers_name(owner):
+    pass
+
+def check_repo(owner, repo):
+    if make_request(github_repo_url(owner, repo)):
+        print(f'✅ passed: {owner}/{repo}')
+        return True
+    else:
         print(f'❌ failed: {owner}/{repo}')
         return False
 
