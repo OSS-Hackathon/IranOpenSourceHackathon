@@ -1,0 +1,7 @@
+name: Tchess
+description: Play chess in the terminal!
+maintainers:
+  - parsampsh
+languages:
+  - python
+  - Python
