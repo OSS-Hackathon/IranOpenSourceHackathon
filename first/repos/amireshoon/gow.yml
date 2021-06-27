@@ -1,0 +1,6 @@
+name: gow
+description: A CLI tool to manage todos and works and can manage TODO.md
+maintainers:
+  - amireshoon
+languages:
+  - go
