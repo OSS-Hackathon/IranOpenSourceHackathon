@@ -1,0 +1,6 @@
+name: Black
+description: A personal static site
+maintainers:
+  - amireshoon
+languages:
+  - javascript
