@@ -1,0 +1,8 @@
+name: Persian language tools for Rust
+description: An anthology of a variety of tools for the Persian language in Rust
+maintainers:
+  - robatipoor
+  - kianenigma
+  - omid
+languages:
+  - Rust
