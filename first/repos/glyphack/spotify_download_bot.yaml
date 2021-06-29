@@ -1,0 +1,6 @@
+name: Spotify Download Bot
+description: Telegram bot helps you to download or listen to songs from spotify
+languages:
+  - Python
+maintainers:
+  - glyphack
