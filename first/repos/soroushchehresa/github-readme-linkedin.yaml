@@ -1,0 +1,6 @@
+name: GitHub Readme LinkedIn
+description: A serverless application to get dynamically generated images from your LinkedIn profile on your GitHub READMEs.
+maintainers:
+  - soroushchehresa
+languages:
+  - TypeScript
