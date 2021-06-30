@@ -1,0 +1,6 @@
+name: Coronavirus CLI
+description: Track COVID-19 statistics via the command line.
+maintainers:
+  - soroushchehresa
+languages:
+  - TypeScript
