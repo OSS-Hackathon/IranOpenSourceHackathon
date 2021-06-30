@@ -1,0 +1,6 @@
+name: Vue SoundCloud
+description: Simple SoundCloud client built with Vue and Nuxt
+maintainers:
+  - soroushchehresa
+languages:
+  - JavaScript
