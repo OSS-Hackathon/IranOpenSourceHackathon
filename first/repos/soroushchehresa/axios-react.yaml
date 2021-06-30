@@ -1,5 +1,5 @@
 name: Axios React
-description: HTTP client component for React based on Axios
+description: HTTP client component for React with child function callback to create async requests in render based on Axios.
 maintainers:
   - soroushchehresa
 languages:
