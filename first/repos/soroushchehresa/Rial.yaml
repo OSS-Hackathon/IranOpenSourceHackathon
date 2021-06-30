@@ -1,0 +1,6 @@
+name: Rial
+description: A simple MacBook Touch Bar application to show USD, Euro, 18K Gold, and Bahar Azadi Coin live prices in Rial.
+maintainers:
+  - soroushchehresa
+languages:
+  - JavaScript
