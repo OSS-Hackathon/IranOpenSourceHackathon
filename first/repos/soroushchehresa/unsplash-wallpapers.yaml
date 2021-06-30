@@ -1,5 +1,5 @@
 name: Unsplash Wallpapers
-description: Unsplash cross-platform desktop application built with Electron, React and Redux
+description: A desktop application based on Unsplash Wallpapers built with Electron, React and Redux.
 maintainers:
   - soroushchehresa
 languages:
