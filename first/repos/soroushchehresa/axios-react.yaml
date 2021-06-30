@@ -1,0 +1,7 @@
+name: Axios React
+description: HTTP client component for React based on Axios
+maintainers:
+  - soroushchehresa
+languages:
+  - TypeScript
+  - JavaScript
