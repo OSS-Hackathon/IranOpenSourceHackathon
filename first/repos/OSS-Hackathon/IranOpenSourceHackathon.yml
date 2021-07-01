@@ -1,0 +1,10 @@
+name: IranOpenSourceHackathon
+description: A Hackathon for Iranian Open Source Developers
+maintainers:
+  - mehdy
+  - SamaneYaghoobi
+  - ebraminio
+  - loreanvictor
+languages:
+  - python
+  - yaml (GitHub Actions)

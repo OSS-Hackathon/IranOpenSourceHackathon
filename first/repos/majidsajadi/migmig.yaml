@@ -1,0 +1,6 @@
+name: MigMig
+description: Simple HTTP Client for Golang.
+maintainers:
+  - majidsajadi
+languages:
+  - go
