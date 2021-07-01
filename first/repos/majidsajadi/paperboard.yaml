@@ -1,0 +1,6 @@
+name: Paperboard
+description: Paperboard, is a cli application for managing a reading list of bookmarks from the Internet.
+maintainers:
+  - majidsajadi
+languages:
+  - javascript
