@@ -1,0 +1,6 @@
+name: Persian Calendar for Gnome-Shell
+description: A Gnome-Shell extension to show Persian date/calendar
+maintainers:
+  - omid
+languages:
+  - JavaScript
