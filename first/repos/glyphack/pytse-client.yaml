@@ -1,0 +1,6 @@
+name: Pytse Client
+description: Work with tehran stock exchange data with Python
+languages:
+  - Python
+maintainers:
+  - glyphack
