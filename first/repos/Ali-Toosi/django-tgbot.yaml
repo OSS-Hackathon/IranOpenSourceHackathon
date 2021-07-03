@@ -1,0 +1,6 @@
+name: django-tgbot
+description: Python package for creating Telegram bots inside Django projects
+languages:
+  - Python
+maintainers:
+  - Ali-Toosi
