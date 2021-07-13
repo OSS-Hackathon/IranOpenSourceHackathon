@@ -1,0 +1,7 @@
+name: Web++
+description: A C++ web framework, aimed to be easy to use, feature-rich, and fast
+maintainers:
+  - the-moisrex
+  - fatal-err
+languages:
+  - C++
