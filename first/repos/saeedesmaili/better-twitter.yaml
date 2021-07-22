@@ -1,0 +1,6 @@
+name: Better Twitter
+description:  A simple python tool that makes your Twitter timeline much better. 
+maintainers:
+  - saeedesmaili
+languages:
+  - python
