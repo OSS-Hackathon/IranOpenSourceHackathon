@@ -1,0 +1,7 @@
+name: Laravel EasyPanel
+description: A beautiful and flexible admin panel creator based on Livewire for Laravel
+languages:
+  - PHP
+  - Blade
+maintainers:
+  - rezaamini-ir
