@@ -1,0 +1,7 @@
+name: sonnat-ui
+description: React component library using Sonnat Design System to build faster, elegant, and accessible web applications.
+languages:
+  - JavaScript
+  - TypeScript
+maintainers:
+  - mimshins
