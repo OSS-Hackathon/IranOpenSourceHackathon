@@ -1,0 +1,11 @@
+name: hybrid-boilerplate
+description: boilerplate use react as a app and handlebar for server side rendering and use fully ES6 structure 
+maintainers:
+  - javadbat
+  - Sinakhx
+languages:
+  - Javascript
+  - Web Component
+  - SASS
+  - HTML
+  - CSS

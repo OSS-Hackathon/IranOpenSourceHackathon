@@ -1,0 +1,10 @@
+name: jb-select
+description: HTML select Web component with search in options, objects array as a option list and auto validation handler.
+maintainers:
+  - javadbat
+languages:
+  - Javascript
+  - Web Component
+  - SASS
+  - HTML
+  - CSS

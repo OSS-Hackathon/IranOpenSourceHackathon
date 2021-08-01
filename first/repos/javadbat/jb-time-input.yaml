@@ -1,0 +1,10 @@
+name: jb-time-input
+description: HTML time input Web component support keyboard typing and time select window.
+maintainers:
+  - javadbat
+languages:
+  - Javascript
+  - Web Component
+  - SASS
+  - HTML
+  - CSS

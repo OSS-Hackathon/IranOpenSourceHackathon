@@ -1,0 +1,10 @@
+name: jb-searchbar
+description: simple configurable searchbar let you create a full filter box in a small bar support multiple filter type.
+maintainers:
+  - javadbat
+languages:
+  - Javascript
+  - Web Component
+  - SASS
+  - HTML
+  - CSS

@@ -1,0 +1,10 @@
+name: jb-date-input
+description: HTML date input Web component with date picker and date validation for both jalali and garegorian date type and customizable shape and validation (support date picker, keyboard type & arrow keys)
+maintainers:
+  - javadbat
+languages:
+  - Javascript
+  - Web Component
+  - SASS
+  - HTML
+  - CSS
