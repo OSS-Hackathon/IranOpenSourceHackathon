@@ -1,0 +1,7 @@
+name: fa.javascript.info
+description: Modern JavaScript Tutorial in Persian (Farsi)
+maintainers:
+  - mahdyar
+languages:
+  - javascript
+  - markdown
