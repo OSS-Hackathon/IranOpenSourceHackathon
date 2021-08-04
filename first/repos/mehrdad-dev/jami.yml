@@ -1,0 +1,6 @@
+name: Jami
+description: Jami is a simple cross platform GUI for play some musical instrument
+maintainers:
+  - mehrdad-dev
+languages:
+  - Go
