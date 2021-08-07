@@ -1,0 +1,9 @@
+name: Scikit-learn Persian Community
+description: Translated documents and educational content about scikit-learn library in machine learning
+maintainers:
+  - mehrdad-dev
+languages:
+  - markdown
+  - html
+  - css
+  - js
