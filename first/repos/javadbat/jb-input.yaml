@@ -1,0 +1,10 @@
+name: jb-input
+description: HTML input Web component with auto validation handler.
+maintainers:
+  - javadbat
+languages:
+  - Javascript
+  - Web Component
+  - SASS
+  - HTML
+  - CSS
