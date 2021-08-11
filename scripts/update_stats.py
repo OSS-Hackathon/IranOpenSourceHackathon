@@ -21,7 +21,7 @@ def fetch_repo_prs(owner, repo):
     while next_page_available:
         for _try in range(3):
             try:
-                api_addr = f"https://api.github.com/search/issues?q={IDENTIFIER}+repo:{owner}/{repo}+is:pr+is:merged+in:title,body,comments+merged:2021-07-06+merged:2021-09-06&per_page={PER_PAGE}&page={page}"
+                api_addr = f"https://api.github.com/search/issues?q={IDENTIFIER}+repo:{owner}/{repo}+is:pr+is:merged+in:title,body,comments+merged:%3E2021-07-06+merged:%3C2021-09-06&per_page={PER_PAGE}&page={page}"
                 req = urllib.request.Request(api_addr)
                 if access_token:
                     req.add_header("Authorization", f"token {access_token}")
