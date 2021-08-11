@@ -71,7 +71,7 @@ Contribute to one of [these repositories][REPOS] during the [time of the hackath
 Of course! You need to:
 
 1. Fork this repository.
-2. For each repository like `https://github.com/jafar/my-repo`, add a [yaml](https://en.wikipedia.org/wiki/YAML) file to `first/repos` \
+2. For each repository like `https://github.com/jafar/my-repo`, add a [yaml](https://en.wikipedia.org/wiki/YAML) file to [first/repos](/first/repos) \
   (i.e. `first/repos/jafar/my-repo.yaml`):
 
   ```yaml
