@@ -220,7 +220,6 @@ Ideally, submit your repositories before the start of the hackathon, though you 
  | --- | --- | --- | 
  | [amirzia](https://github.com/amirzia) | 1 | [mehdy/pyeez](https://github.com/mehdy/pyeez) | 
  | [mehrdad-dev](https://github.com/mehrdad-dev) | 1 | [OSS-Hackathon/IranOpenSourceHackathon](https://github.com/OSS-Hackathon/IranOpenSourceHackathon) | 
- | [shuoros](https://github.com/shuoros) | 1 | [OSS-Hackathon/IranOpenSourceHackathon](https://github.com/OSS-Hackathon/IranOpenSourceHackathon) | 
 <!-- /CONTRIBUTORS_STATS TABLE -->
 
 <br>
@@ -232,8 +231,8 @@ Ideally, submit your repositories before the start of the hackathon, though you 
 <!-- REPOS_STATS TABLE -->
  | Repo | Total PRs | Contributors | 
  | --- | --- | --- | 
- | [OSS-Hackathon/IranOpenSourceHackathon](https://github.com/OSS-Hackathon/IranOpenSourceHackathon) | 2 | [mehrdad-dev](https://github.com/mehrdad-dev), [shuoros](https://github.com/shuoros) | 
  | [mehdy/pyeez](https://github.com/mehdy/pyeez) | 1 | [amirzia](https://github.com/amirzia) | 
+ | [OSS-Hackathon/IranOpenSourceHackathon](https://github.com/OSS-Hackathon/IranOpenSourceHackathon) | 1 | [mehrdad-dev](https://github.com/mehrdad-dev) | 
 <!-- /REPOS_STATS TABLE -->
 
 <br>
