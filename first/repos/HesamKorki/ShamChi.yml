@@ -1,0 +1,8 @@
+name: ShamChi
+description: Randomly selects a Persian food to cook for dinner and serves the application on a static github pages.
+maintainers:
+  - HesamKorki
+languages:
+  - JavaScript
+  - CSS
+  - HTML
