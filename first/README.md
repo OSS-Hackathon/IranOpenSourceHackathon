@@ -219,7 +219,6 @@ Ideally, submit your repositories before the start of the hackathon, though you 
 <!-- CONTRIBUTORS_STATS TABLE -->
  | Contributor | Total PRs | Repos | 
  | --- | --- | --- | 
- | [mahdyar](https://github.com/mahdyar) | 2 | [rustland-fa/persian-tools-rs](https://github.com/rustland-fa/persian-tools-rs) | 
  | [amirzia](https://github.com/amirzia) | 1 | [mehdy/pyeez](https://github.com/mehdy/pyeez) | 
  | [siadat](https://github.com/siadat) | 1 | [OSS-Hackathon/IranOpenSourceHackathon](https://github.com/OSS-Hackathon/IranOpenSourceHackathon) | 
 <!-- /CONTRIBUTORS_STATS TABLE -->
@@ -233,7 +232,6 @@ Ideally, submit your repositories before the start of the hackathon, though you 
 <!-- REPOS_STATS TABLE -->
  | Repo | Total PRs | Contributors | 
  | --- | --- | --- | 
- | [rustland-fa/persian-tools-rs](https://github.com/rustland-fa/persian-tools-rs) | 2 | [mahdyar](https://github.com/mahdyar) | 
  | [mehdy/pyeez](https://github.com/mehdy/pyeez) | 1 | [amirzia](https://github.com/amirzia) | 
  | [OSS-Hackathon/IranOpenSourceHackathon](https://github.com/OSS-Hackathon/IranOpenSourceHackathon) | 1 | [siadat](https://github.com/siadat) | 
 <!-- /REPOS_STATS TABLE -->
