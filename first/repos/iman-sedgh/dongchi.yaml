@@ -1,0 +1,9 @@
+name: Dongchi financial manager
+description: a simple web service to manage "Dong"s build in django
+languages:
+  - Python
+  - Django
+  - Bootstrap
+
+maintainers:
+  - iman-sedgh
