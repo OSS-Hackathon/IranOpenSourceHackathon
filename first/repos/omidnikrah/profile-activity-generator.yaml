@@ -1,0 +1,6 @@
+name: Profile Activity Generator
+description: Generate custom profile activity for your profile README
+maintainers:
+  - omidnikrah
+languages:
+  - JavaScript

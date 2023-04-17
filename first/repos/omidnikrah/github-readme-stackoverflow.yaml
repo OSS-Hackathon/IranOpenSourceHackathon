@@ -1,0 +1,6 @@
+name: GitHub Readme StackOverflow
+description: Dynamically generated your StackOverflow status on your GitHub READMEs!
+maintainers:
+  - omidnikrah
+languages:
+  - JavaScript

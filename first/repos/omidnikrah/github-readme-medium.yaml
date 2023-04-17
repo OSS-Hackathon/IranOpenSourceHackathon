@@ -1,0 +1,6 @@
+name: GitHub Readme Medium
+description: Dynamically generated your latest Medium article on your GitHub readmes!
+maintainers:
+  - omidnikrah
+languages:
+  - JavaScript
